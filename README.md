@@ -6,4 +6,4 @@ to start, press right arrow key
 
 to pause, press left arrow key
 
-to exit program, press backspace
+to exit program, press down arrow key
