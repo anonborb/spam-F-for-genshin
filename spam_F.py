@@ -12,7 +12,7 @@ def on_press(key):
     elif key == keyboard.Key.right:
         print("Starting...")
         looping = True
-    elif key == keyboard.Key.backspace:
+    elif key == keyboard.Key.down:
         print("Exiting...")
         return False
 
